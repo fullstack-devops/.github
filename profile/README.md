@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi to Fullstack with DevOps 👋
 
-This is a test :smile:
+You will probably wonder what you can find here. Feel free to poke around 👓.
+
+- There can be a lot about full stack development and DevOps here.
+- Every repo should have at least one readme explaining what it is. Optionally there is even a GitHub Page in the about section.
+- Many repos also interact with each other, true to the motto: if you can automate it and it saves you time ➡️ Do IT!
+
+If you have general questions, you are welcome to open an issue in the [.github](https://github.com/fullstack-devops/.github/issues/new) repo or, if you have questions about a suitable topic, directly in the relevant repo.
+<!-- Discussions are of course also open. --> 
+
 <!--
 
 **Here are some ideas to get you started:**
