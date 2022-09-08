@@ -1,4 +1,4 @@
-## Hi to Fullstack with DevOps 👋
+## Hi to FullStack applications and DevOps solutions (Fs DevOps) 👋
 
 You will probably wonder what you can find here. Feel free to poke around 👓.
 
